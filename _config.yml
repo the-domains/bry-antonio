@@ -1,6 +1,6 @@
 name: Bry Antonio
 favicon: null
-layout_spectrum: 0.24637
+layout_spectrum: 1
 typography_spectrum: 0.37097
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0f1f1f'
+    - '#4c503f'
+    - '#707054'
+    - '#e3dea1'
+    - '#8b8963'
   brandStrength: 1
   lightness: 0.625
   saturation: 0.5
